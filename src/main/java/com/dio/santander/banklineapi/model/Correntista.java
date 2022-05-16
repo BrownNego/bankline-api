@@ -39,11 +39,11 @@ public class Correntista {
 	public void setId(Integer id) {
 		this.id = id;
 	}
-	public String getCpfString() {
+	public String getCpf() {
 		return cpf;
 	}
-	public void setCpfString(String cpfString) {
-		this.cpf = cpfString;
+	public void setCpf(String cpf) {
+		this.cpf = cpf;
 	}
 	public String getNome() {
 		return nome;
